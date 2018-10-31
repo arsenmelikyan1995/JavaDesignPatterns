@@ -1,2 +1,2 @@
-# JavaDesignPatternsTest
+# JavaDesignPatterns
 Java Design Patterns Test
